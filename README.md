@@ -5,10 +5,10 @@
 ### 👨‍💻 Habilidades y Experiencia
 
 - **Lenguajes de Programación:** Python, SQL
-- **Análisis de Datos:** Python y SQL para análisis y procesamiento de datos.
-- **Gestión de Bases de Datos:** Habilidad en diseño y gestión de bases de datos relacionales.
-- **Desarrollo No-Code:** Creación de aplicaciones utilizando herramientas **no-code** para automatización de procesos y resolución de problemas.
-- **Visualización de Datos:** Experiencia en la creación de visualizaciones de datos usando **Power BI** para apoyar la toma de decisiones y planificación estratégica.
+- **Análisis de Datos:** Experto en el uso de Python y SQL para análisis y procesamiento de datos.
+- **Gestión de Bases de Datos:** Habilidad en diseño y gestión de bases de datos usando **Access**.
+- **Desarrollo No-Code:** Competente en la creación de aplicaciones utilizando herramientas **no-code** para automatización de procesos y resolución de problemas.
+- **Visualización de Datos:** Experiencia en la creación de visualizaciones de datos impactantes usando **Power BI** para apoyar la toma de decisiones y planificación estratégica.
 
 ### 💡 Cómo Puedo Ayudar a Tu Empresa
 
@@ -21,10 +21,9 @@ Estoy mejorando continuamente mis habilidades en ciencia de datos y aprendizaje 
 Proyectos basados en datos donde pueda aportar mis habilidades en programación, análisis de datos y estrategia empresarial para resolver desafíos del mundo real.
 
 ### 📫 Cómo contactarme:
-No dudes en contactarme a través de GitHub o LinkedIn. ¡Siempre estoy dispuesto a conectar con profesionales y explorar nuevas oportunidades!
+No dudes en contactarme a través de GitHub o [LinkedIn](http://linkedin.com/in/jose-luis-fernandez-rubiano). ¡Siempre estoy dispuesto a conectar con profesionales y explorar nuevas oportunidades!
 
 ### ⚡ Datos curiosos:
 Disfruto creando soluciones innovadoras que no solo resuelven problemas, sino que también hacen que las operaciones sean más eficientes y significativas.
 
 ¡Gracias por visitar mi perfil!
-
