@@ -2,7 +2,7 @@
   <img decoding="async" src="https://drive.google.com/file/d/1a-bHpdQimtxsfyfcbfMUF09LdYWUmbFg/view?usp=sharing" width="800"/>
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joseluisfernandezrubiano/)
 </div>
 
