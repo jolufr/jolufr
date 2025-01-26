@@ -8,6 +8,8 @@
   </a>
 </div>
 
+
+
 ¡Bienvenido a mi perfil de GitHub! Soy un profesional con formación en Administración de Empresas y Ciencia de Datos, que combina habilidades técnicas con una sólida experiencia en gestión de equipos, ventas y optimización de procesos. Mi objetivo es impulsar la innovación creando soluciones basadas en datos que optimicen las operaciones y mejoren la eficiencia.
 
 ### 👨‍💻 Habilidades y Experiencia
