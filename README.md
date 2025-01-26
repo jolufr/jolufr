@@ -2,14 +2,11 @@
   <img decoding="async" src="https://drive.google.com/uc?export=view&id=1a-bHpdQimtxsfyfcbfMUF09LdYWUmbFg" width="800"/>
 </div>
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center;">
   <a href="https://www.linkedin.com/in/joseluisfernandezrubiano/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-
-
-## ¡Hola! 👋
 
 ¡Bienvenido a mi perfil de GitHub! Soy un profesional con formación en Administración de Empresas y Ciencia de Datos, que combina habilidades técnicas con una sólida experiencia en gestión de equipos, ventas y optimización de procesos. Mi objetivo es impulsar la innovación creando soluciones basadas en datos que optimicen las operaciones y mejoren la eficiencia.
 
