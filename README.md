@@ -2,11 +2,12 @@
   <img decoding="async" src="https://drive.google.com/uc?export=view&id=1a-bHpdQimtxsfyfcbfMUF09LdYWUmbFg" width="800"/>
 </div>
 
-<div style="display: flex; justify-content: center;">
+<div style="width: 100%; text-align: center; display: block; margin: 0 auto;">
   <a href="https://www.linkedin.com/in/joseluisfernandezrubiano/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 
 
 
