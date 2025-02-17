@@ -31,9 +31,6 @@ Estoy mejorando continuamente mis habilidades en ciencia de datos y aprendizaje 
 ### 👯 Estoy buscando colaborar en...
 Proyectos basados en datos donde pueda aportar mis habilidades en programación, análisis de datos y estrategia empresarial para resolver desafíos del mundo real.
 
-### 📫 Cómo contactarme:
-No dudes en contactarme a través de GitHub o [LinkedIn](http://linkedin.com/in/jose-luis-fernandez-rubiano). ¡Siempre estoy dispuesto a conectar con profesionales y explorar nuevas oportunidades!
-
 ### ⚡ Datos curiosos:
 Disfruto creando soluciones innovadoras que no solo resuelven problemas, sino que también hacen que las operaciones sean más eficientes y significativas.
 
