@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://drive.google.com/uc?export=view&id=1a-bHpdQimtxsfyfcbfMUF09LdYWUmbFg" width="800"/>
+  <img decoding="async" src="https://drive.google.com/uc?export=view&id=1IxM59ILGHboPg32gPCug-PHhEyurv5ax" width="800"/>
 </div>
 
 <div style="width: 100%; text-align: center; display: block; margin: 0 auto;">
@@ -11,7 +11,7 @@
 
 
 
-¡Bienvenido a mi perfil de GitHub! Soy un profesional con formación en Administración de Empresas y Ciencia de Datos, que combina habilidades técnicas con una sólida experiencia en gestión de equipos, ventas y optimización de procesos. Mi objetivo es impulsar la innovación creando soluciones basadas en datos que optimicen las operaciones y mejoren la eficiencia.
+¡Bienvenido a mi perfil de GitHub! Soy un Cientifico de Datos con formación en Administración de Empresas, que combina habilidades técnicas con una sólida experiencia en gestión de equipos, ventas y optimización de procesos. Mi objetivo es impulsar la innovación creando soluciones basadas en datos que optimicen las operaciones y mejoren la eficiencia.
 
 ### 👨‍💻 Habilidades y Experiencia
 
